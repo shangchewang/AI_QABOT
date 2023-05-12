@@ -22,7 +22,7 @@ app.use(function(req, res, next) {
 
 app.get('/', async (req, res) => {
  res.status(200).send({
- message: 'Hello from CodeX',
+ message: 'Hello from QABOT',
  })
 });
 
